@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm HAYRI CAN</h1>
-<h3 align="center">⚡Turkey Living in a Student Employee :)⚡</h3>
+<h3 align="center">⚡Welcome My Library⚡</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bunyaminefe&label=Profilimi%20İnceleyenler%20(Who Viewed%20My Profile)&color=0e75b6&style=flat" alt="bunyaminefe" /> </p>
+
 <h3 align="center">🔭English🔭</h3>
 
 - ⚡ I’m currently learning **Flutter, Dart, C#, SQL** 
