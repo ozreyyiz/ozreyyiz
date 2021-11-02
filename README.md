@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi 👋, I'm Bünyamin
+⚡Turkey Living in a Student Employee :)⚡
+bunyaminefe
 
-<!--
-**ozreyyiz/ozreyyiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭English🔭
+⚡ I’m currently learning Flutter, Dart, Qt, Python
 
-Here are some ideas to get you started:
+📫 How to reach me me@bunyaminefe.com.tr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭Türkçe🔭
+⚡ Öğrendiğim diller Flutter, Dart, Qt, Python
+
+📫 İletişim me@bunyaminefe.com.tr
+
+Connect with me:
+https://www.instagram.com/bejo_app/ https://bunyaminefe.com.tr/
+
+Languages and Tools:
+bootstrap css3 dart flutter html5 laravel php python qt
+
+Support:
+bunyaminefe
+
+
+Şu An Müzik Dinlemıyor(Not Listening to Music Right Now)
