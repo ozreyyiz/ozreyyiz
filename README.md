@@ -14,7 +14,7 @@
 - ⚡ Öğrendiğim diller **Flutter, Dart, C#, SQL**  
 
 - 📫 İletişim **hcefe.1@gmail.com**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozreyyiz)](https://git.io/streak-stats)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hayri-can-efe-5b2a89169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hayri-can-efe-5b2a89169/" height="30" width="40" /></a>
